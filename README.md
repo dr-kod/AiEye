@@ -2,14 +2,6 @@
 
 This project introduces a **wearable AI-driven assistant** designed to help **blind and visually impaired users** perceive and interact with their environment through **multi-camera vision** and **real-time audio guidance**.
 
-<p align="center">
-  <strong>🚀 Project moved to the new address:</strong><br/>
-  <a href="https://github.com/dr-kod/AiEye" target="_blank" rel="noopener noreferrer">
-    <strong>https://github.com/dr-kod/AiEye</strong>
-  </a>
-</p>
-
-
 ## Overview
 The system uses **multiple cameras** and **artificial intelligence** to analyze the surrounding environment from all directions, detecting objects, obstacles, people, and relevant events. It translates visual information into **natural, spoken feedback** using embedded speakers.
 
