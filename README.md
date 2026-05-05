@@ -4,7 +4,7 @@ This project introduces a **wearable AI-driven assistant** designed to help **bl
 
 ## Overview
 The system uses **multiple cameras** and **artificial intelligence** to analyze the surrounding environment from all directions, detecting objects, obstacles, people, and relevant events. It translates visual information into **natural, spoken feedback** using embedded speakers.
-
+ 
 ## Key Features
 - Lightweight wearable design, similar to glasses or a head-mounted frame
 - Multi-camera coverage for full environmental awareness
